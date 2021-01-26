@@ -11,6 +11,7 @@ import cucumber.api.junit.Cucumber;
 		"junit:src/test/resources/relatorios/cucumber.xml" }, 
 		features = {"src/test/resources/features/buscaCampoMarca.feature"},
 		monochrome = true, 
+		tag = "@buscar",
 		glue = { "steps" }, 
 		snippets = SnippetType.CAMELCASE)
 		//dryRun = false, 

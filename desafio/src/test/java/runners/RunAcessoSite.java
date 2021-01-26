@@ -12,6 +12,7 @@ import cucumber.api.junit.Cucumber;
 		features = {"src/test/resources/features/acessoSite.feature",
 				   },
 		//monochrome = true, 
+		tag = "@buscar",
 		glue = { "steps" }, 
 		snippets = SnippetType.CAMELCASE)
 		//dryRun = false, 
