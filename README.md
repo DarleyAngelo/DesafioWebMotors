@@ -7,4 +7,4 @@
 4 - Para os testes de API não realizei o BDD, mas está bem claro que cada cenário;
 5 - Para os testes de API foi utilizado Java + RestAssured;
 
-# Projeto Maven, java 8 e RestAssured
+## Projeto Maven, java 8 e RestAssured
